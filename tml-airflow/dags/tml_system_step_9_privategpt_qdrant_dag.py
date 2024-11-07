@@ -245,7 +245,7 @@ def gatherdataforprivategpt(result):
 def sendtoprivategpt(maindata):
 
    counter = 0   
-   maxc = 120
+   maxc = 300
    pgptendpoint="/v1/completions"
    
    maintopic = default_args['pgpt_data_topic']
@@ -348,6 +348,7 @@ if __name__ == '__main__':
         VIPERHOST = sys.argv[3]
         VIPERPORT = sys.argv[4]
 
+        tsslogging.locallogs("INFO", "STEP 9: Starting privateGPT")
         startpgptcontainer()
         qdrantcontainer()
         time.sleep(10)  # wait for containers to start
@@ -365,6 +366,7 @@ if __name__ == '__main__':
               sendtoprivategpt(maindata)                      
              time.sleep(2)
          except Exception as e:
+          tsslogging.locallogs("ERROR", "STEP 9: PrivateGPT Step 9 DAG in {} {}".format(os.path.basename(__file__),e))
           tsslogging.tsslogit("PrivateGPT Step 9 DAG in {} {}".format(os.path.basename(__file__),e), "ERROR" )
           tsslogging.git_push("/{}".format(repo),"Entry from {}".format(os.path.basename(__file__)),"origin")
           break

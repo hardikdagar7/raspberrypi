@@ -10233,3 +10233,4 @@ Already up to date.
 [INFO 2024-11-07_19:36:50] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-November7th-7042.py
 [INFO 2024-11-07_19:36:57] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-November7th-7042.py
 [INFO 2024-11-07_19:36:59] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-November7th-7042.py
+[INFO 2024-11-07_19:37:00] Visualization DAG in tml_system_step_7_kafka_visualization_dag-November7th-7042.py

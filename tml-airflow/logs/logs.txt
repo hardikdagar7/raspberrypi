@@ -10287,3 +10287,4 @@ Already up to date.
 [INFO 2024-11-11_19:44:59] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-testone-7042.py
 [INFO 2024-11-11_19:45:06] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-testone-7042.py
 [INFO 2024-11-11_19:45:09] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-testone-7042.py
+[INFO 2024-11-11_19:45:10] Visualization DAG in tml_system_step_7_kafka_visualization_dag-testone-7042.py

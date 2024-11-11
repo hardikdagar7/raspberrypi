@@ -10301,3 +10301,4 @@ Already up to date.
 [INFO 2024-11-11_19:54:44] Visualization DAG in tml_system_step_7_kafka_visualization_dag-testone-7042.py
 [INFO 2024-11-11_19:54:53] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-testone-7042.py
 [INFO 2024-11-11_19:54:58] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-testone-7042.py
+[INFO 2024-11-11_19:56:46] {'name': ['Project with slug "testone-7042" already exists.']}

@@ -10289,3 +10289,4 @@ Already up to date.
 [INFO 2024-11-11_19:45:09] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-testone-7042.py
 [INFO 2024-11-11_19:45:10] Visualization DAG in tml_system_step_7_kafka_visualization_dag-testone-7042.py
 [INFO 2024-11-11_19:45:21] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-testone-7042.py
+[INFO 2024-11-11_19:45:26] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-testone-7042.py

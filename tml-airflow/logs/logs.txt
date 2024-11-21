@@ -10383,3 +10383,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-20_23:58:45] TML Solution Studio: GIT REPO testone-7042 DELETED by hardikdagar7
 [INFO 2024-11-20_23:58:45] TML Solution Studio: LOCAL DOCKER IMAGE testone-7042-amd64 DELETED by hardikdagar0207
 [INFO 2024-11-21_00:00:40] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py
+[INFO 2024-11-21_00:00:42] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py

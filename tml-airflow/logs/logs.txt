@@ -10400,3 +10400,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-21_00:07:35] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py
 [INFO 2024-11-21_00:07:37] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py
 [INFO 2024-11-21_00:07:37] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py
+[INFO 2024-11-21_00:07:46] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-testwsl-7042.py

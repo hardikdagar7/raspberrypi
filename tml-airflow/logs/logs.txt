@@ -10512,3 +10512,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-21_18:09:25] Visualization DAG in tml_system_step_7_kafka_visualization_dag-testtwo-7042.py
 [INFO 2024-11-21_18:09:34] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-testtwo-7042.py
 [INFO 2024-11-21_18:09:39] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-testtwo-7042.py
+[INFO 2024-11-21_18:14:33] {'name': ['Project with slug "testtwo-7042" already exists.']}

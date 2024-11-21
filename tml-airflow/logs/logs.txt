@@ -10420,3 +10420,4 @@ Already up to date.
 [INFO 2024-11-21_00:13:47] TML Solution Studio: git push Status for project testtwo-7042: Everything up-to-date
 [INFO 2024-11-21_00:21:50] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-testtwo-7042.py
 [INFO 2024-11-21_00:21:52] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-testtwo-7042.py
+[INFO 2024-11-21_00:21:51] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-testtwo-7042.py

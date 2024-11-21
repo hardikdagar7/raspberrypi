@@ -10408,3 +10408,13 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-21_00:08:06] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-testwsl-7042.py
 [INFO 2024-11-21_00:08:08] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-testwsl-7042.py
 [INFO 2024-11-21_00:09:53] {'name': ['Project with slug "testwsl-7042" already exists.']}
+[INFO 2024-11-21_00:13:11] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/testtwo-7042
+[INFO 2024-11-21_00:13:11] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/hardikdagar7/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-11-21_00:13:46] TML Solution Studio: Starting Git commit process for project: testtwo-7042
+[INFO 2024-11-21_00:13:46] TML Solution Studio: git commit -a Status for project testtwo-7042: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-21_00:13:46] TML Solution Studio: git push origin main Status: Everything up-to-date
+[INFO 2024-11-21_00:13:46] TML Solution Studio: git add . Status: 
+[INFO 2024-11-21_00:13:46] TML Solution Studio: git commit -a Status for project testtwo-7042: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-11-21_00:13:47] TML Solution Studio: git push Status for project testtwo-7042: Everything up-to-date

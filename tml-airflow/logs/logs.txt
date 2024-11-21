@@ -10391,3 +10391,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-21_00:00:59] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-testwsl-7042.py
 [INFO 2024-11-21_00:01:01] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-testwsl-7042.py
 [INFO 2024-11-21_00:01:04] Predictions DAG in tml_system_step_6_kafka_predictions_dag-testwsl-7042.py
+[INFO 2024-11-21_00:01:05] Visualization DAG in tml_system_step_7_kafka_visualization_dag-testwsl-7042.py

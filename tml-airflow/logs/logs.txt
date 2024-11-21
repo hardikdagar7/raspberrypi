@@ -10396,3 +10396,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-21_00:01:18] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-testwsl-7042.py
 [INFO 2024-11-21_00:03:19] {'name': ['Project with slug "testwsl-7042" already exists.']}
 [INFO 2024-11-21_00:07:30] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py
+[INFO 2024-11-21_00:07:32] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-testwsl-7042.py

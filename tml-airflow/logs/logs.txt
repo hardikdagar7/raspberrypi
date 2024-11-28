@@ -10576,3 +10576,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-28_20:40:07] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cyber-7042.py
 [INFO 2024-11-28_20:40:08] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cyber-7042.py
 [INFO 2024-11-28_20:40:10] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cyber-7042.py
+[INFO 2024-11-28_20:40:20] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cyber-7042.py

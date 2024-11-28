@@ -10572,3 +10572,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-28_20:39:50] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py
 [INFO 2024-11-28_20:39:54] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py
 [INFO 2024-11-28_20:39:56] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py
+[INFO 2024-11-28_20:39:59] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py

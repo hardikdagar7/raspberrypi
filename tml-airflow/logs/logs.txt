@@ -10581,3 +10581,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-28_20:41:28] {'name': ['Project with slug "cyber-7042" already exists.']}
 [INFO 2024-11-28_21:28:57] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py
 [INFO 2024-11-28_21:29:00] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py
+[INFO 2024-11-28_21:29:02] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cyber-7042.py

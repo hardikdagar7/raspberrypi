@@ -10718,3 +10718,4 @@ Already up to date.
 [INFO 2024-11-30_07:06:39] Visualization DAG in tml_system_step_7_kafka_visualization_dag-four-7042.py
 [INFO 2024-11-30_07:06:48] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-four-7042.py
 [INFO 2024-11-30_07:06:53] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-four-7042.py
+[INFO 2024-11-30_07:08:28] {'name': ['Project with slug "four-7042" already exists.']}

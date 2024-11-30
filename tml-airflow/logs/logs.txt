@@ -10683,3 +10683,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-30_06:44:54] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-three-7042.py
 [INFO 2024-11-30_06:45:00] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-three-7042.py
 [INFO 2024-11-30_06:45:02] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-three-7042.py
+[INFO 2024-11-30_06:45:03] Visualization DAG in tml_system_step_7_kafka_visualization_dag-three-7042.py

@@ -10686,3 +10686,4 @@ origin	https://<personal access token hidden>@github.com/hardikdagar7/raspberryp
 [INFO 2024-11-30_06:45:03] Visualization DAG in tml_system_step_7_kafka_visualization_dag-three-7042.py
 [INFO 2024-11-30_06:45:13] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-three-7042.py
 [INFO 2024-11-30_06:45:19] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-three-7042.py
+[INFO 2024-11-30_06:46:38] {'name': ['Project with slug "three-7042" already exists.']}

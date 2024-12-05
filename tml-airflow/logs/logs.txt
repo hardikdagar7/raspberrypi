@@ -10792,3 +10792,4 @@ Already up to date.
 [INFO 2024-12-05_01:58:13] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-abc-7042.py
 [INFO 2024-12-05_01:58:15] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-abc-7042.py
 [INFO 2024-12-05_01:58:17] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-abc-7042.py
+[INFO 2024-12-05_01:58:24] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-abc-7042.py

@@ -10789,3 +10789,4 @@ Already up to date.
 [INFO 2024-12-05_01:47:06] TML Solution Studio: git push Status for project abc-7042: Everything up-to-date
 [INFO 2024-12-05_01:58:08] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-abc-7042.py
 [INFO 2024-12-05_01:58:11] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-abc-7042.py
+[INFO 2024-12-05_01:58:13] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-abc-7042.py

@@ -10827,3 +10827,4 @@ Already up to date.
 [INFO 2024-12-05_16:30:25] TML Solution Studio: git push Status for project cloud-7042: Everything up-to-date
 [INFO 2024-12-05_16:47:03] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
 [INFO 2024-12-05_16:47:05] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
+[INFO 2024-12-05_16:47:08] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py

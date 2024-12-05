@@ -10829,3 +10829,4 @@ Already up to date.
 [INFO 2024-12-05_16:47:05] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
 [INFO 2024-12-05_16:47:08] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
 [INFO 2024-12-05_16:47:10] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
+[INFO 2024-12-05_16:47:12] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cloud-7042.py
